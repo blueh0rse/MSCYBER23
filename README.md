@@ -36,7 +36,10 @@ More details [here](as/ApplicationSecurity.md).
 
 #### Assignements
 
-- Workshop #1 - Standardization
+- [Workshop #1 - Standardization](as/as_ws1_standardization.pdf)
+ 
+This document presents general information about electronic signatures, lists the three standards used, details the most widely used of the three, and concludes.
+
 - Workshop #2 - ORM Injection
 - Workshop #3 - IoT Security in Schools
 - Project - Security by Design
@@ -45,7 +48,3 @@ More details [here](as/ApplicationSecurity.md).
 
 - 1st Partial Exam
 - 2nd Partial Exam
-
-#### Grades
-
-Final grade: 6.2
