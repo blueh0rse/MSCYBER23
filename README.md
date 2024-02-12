@@ -15,7 +15,7 @@ It is full english and is divided into 2 semesters, each one containing differen
 - Semester 2:
   - Coming soon!
 
-See my grades [here](ms_grades.md)!
+> See my grades [here](ms_grades.md)!
 
 ## Semester 1
 
@@ -26,7 +26,7 @@ See my grades [here](ms_grades.md)!
 
 This subject covers advanced aspects of the very active area of Internet applications, its development and its security. Focus is not restricted to a specific sector, but some are used as examples, such as eHealth and multimedia applications.
 
-More details [here](as/as.md).
+> More details [here](as/as.md).
 
 #### Theory
 
@@ -50,7 +50,7 @@ More details [here](as/as.md).
 - ECTS Credits: 5
 - Total learning time: 125h
 
-More details [here](bchain/bchain.md).
+> More details [here](bchain/bchain.md).
 
 #### Theory
 
@@ -76,7 +76,7 @@ More details [here](bchain/bchain.md).
 This subject aims teach the necessary cryptographic techniques used to protect data during storage and transmision, in order to guarantee its
 confidentiality, integrity and authentication.
 
-More details [here](dprot/dprot.md).
+> More details [here](dprot/dprot.md).
 
 #### Theory
 
@@ -104,7 +104,7 @@ More details [here](dprot/dprot.md).
 
 This subject aims to provide a comprehensive understanding of operating system principles, including process management and logical address space construction. It covers user vs. kernel modes, multithreading, and the philosophies of Windows and Linux systems. Additionally, it delves into malware, examining its categories, lifecycle (intrusion, infection, obfuscation, payload), deployment, and obfuscation techniques. The course also explores the development of malware targeting Windows systems, antivirus software components, and the ethical considerations of malware creation and distribution.
 
-More details [here](malw/malw.md).
+> More details [here](malw/malw.md).
 
 #### Theory
 
@@ -131,7 +131,7 @@ More details [here](malw/malw.md).
 
 This course focuses on equipping students with the skills to design, evaluate, and secure data communication networks. It adopts a hands-on approach, applying theoretical concepts in real network labs. The learning outcomes include the ability to design telecommunication networks for various scopes and bandwidths, use traffic engineering and network planning tools, and develop new network architectures and services. Additionally, students will learn to analyze and implement advanced security measures, including cryptographic protocols, firewalls, and authentication systems.
 
-More details [here](ns/ns.md).
+> More details [here](ns/ns.md).
 
 #### Theory
 
@@ -166,7 +166,7 @@ will also address the main technical challenges involved in network monitoring d
 network traffic. Finally, it will discuss about the privacy and ethical implications of measuring network traffic, as well as current
 regulations such as the EU General Data Protection Regulation (GDPR).
 
-More details [here](tma/tma.md).
+> More details [here](tma/tma.md).
 
 #### Theory
 
@@ -182,3 +182,4 @@ More details [here](tma/tma.md).
 - Lab #2 - NetFlow
 - Talk #1 - How to think like a hacker?
 - Talk #2 - GDPR
+- Project - 
