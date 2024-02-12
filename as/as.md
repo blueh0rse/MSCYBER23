@@ -21,7 +21,7 @@ Standards to achieve interoperability are key for understanding the relevant pro
 
 Topics will be introduced, analyzed and discussed, focusing on the new approaches and techniques. Students will work on specific assignments that will be discussed with their peers in order to understand current solutions and think on alternative ones.
 
-### Contents
+### Theory
 
 1. Introduction
    - Introduction
@@ -60,17 +60,12 @@ Topics will be introduced, analyzed and discussed, focusing on the new approache
    - Permission and contracts languages: ODRL, MPEG CEL
    - User privacy in web services and applications: Web tracking, Privacy in social applications/networks
 
-### Grades
+#### Assignements
 
-- Final Grade: **6.2**
-  - Exams (40%): **5.87**
-    - Exam 1 (50%): 5.25
-    - Exam 2 (50%): 5.6
-    - Incrementation: 1.082
-  - Assessments (40%): **7.95**
-    - Content (35%): 8
-    - Presentation (30%): 7.5
-    - Lead discussion (10%): 7
-    - Others' discussion (5%): 10
-    - Report (20%): 8.5
-  - Project (20%): **5**
+- [Workshop #1 - Standardization](as_ws1_standardization.pdf)
+ 
+This document presents general information about electronic signatures, lists the three standards used, details the most widely used of the three, and concludes.
+
+- Workshop #2 - ORM Injection
+- Workshop #3 - IoT Security in Schools
+- Project - Security by Design
