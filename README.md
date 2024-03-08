@@ -13,7 +13,10 @@ It is full english and is divided into 2 semesters, each one containing differen
   - Traffic Monitoring & Analysis
 
 - Semester 2:
-  - Coming soon!
+  - Cybersecurity Use-cases
+  - Hardware Security
+  - Network Security - Authentication & Authorization
+  - Software-Defined Security
 
 > See my grades [here](ms_grades.md)!
 
@@ -183,3 +186,21 @@ regulations such as the EU General Data Protection Regulation (GDPR).
 - Talk #1 - How to think like a hacker?
 - Talk #2 - GDPR
 - Project - 
+
+## Semester 2
+
+### Cybersecurity Use-cases
+
+...
+
+### Hardware Security
+
+...
+
+### Network Security - Authentication & Authorization
+
+...
+
+### Software-Defined Security
+
+...
