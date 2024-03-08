@@ -2,9 +2,10 @@
 
 This Master of Cybersecurity is a 1 year master taught in the Universitat Politècnica de Catalunya (UPC) in Barcelona.
 
-It is full english and is divided into 2 semesters, each one containing differents subjects: 
+It is full english and is divided into 2 semesters, each one containing differents subjects:
 
 - Semester 1
+
   - Application Security
   - Blockchain
   - Data Protection
@@ -12,7 +13,8 @@ It is full english and is divided into 2 semesters, each one containing differen
   - Network Security
   - Traffic Monitoring & Analysis
 
-- Semester 2:
+- Semester 2
+
   - Cybersecurity Use-cases
   - Hardware Security
   - Network Security - Authentication & Authorization
@@ -42,7 +44,6 @@ This subject covers advanced aspects of the very active area of Internet applica
 #### Assignements
 
 - [Workshop #1 - Standardization](as/as_ws1_standardization.pdf)
-
 - Workshop #1 - Electronic Signatures
 - Workshop #2 - ORM Injection
 - Workshop #3 - IoT Security in Schools
@@ -185,7 +186,7 @@ regulations such as the EU General Data Protection Regulation (GDPR).
 - Lab #2 - NetFlow
 - Talk #1 - How to think like a hacker?
 - Talk #2 - GDPR
-- Project - 
+- Project -
 
 ## Semester 2
 
