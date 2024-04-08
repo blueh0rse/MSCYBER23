@@ -10,7 +10,7 @@
 
 This subject covers advanced aspects of the very active area of Internet applications, its development and its security. Focus is not restricted to a specific sector, but some are used as examples, such as eHealth and multimedia applications.
 
-> More details [here](as/as.md).
+> More details [here](../as/as.md).
 
 #### Theory
 
@@ -22,11 +22,13 @@ This subject covers advanced aspects of the very active area of Internet applica
 
 #### Assignements
 
-- [Workshop #1 - Standardization](as/as_ws1_standardization.pdf)
+- [Workshop #1 - Standardization](../as/as_ws1_standardization.pdf)
 - Workshop #1 - Electronic Signatures
 - Workshop #2 - ORM Injection
 - Workshop #3 - IoT Security in Schools
 - Project - Security by Design
+
+---
 
 ### ⛓️ Blockchain
 
@@ -36,7 +38,7 @@ This subject covers advanced aspects of the very active area of Internet applica
 
 Description...
 
-> More details [here](bchain/bchain.md).
+> More details [here](../bchain/bchain.md).
 
 #### Theory
 
@@ -54,6 +56,8 @@ Description...
 - Lab #2 - Interact with a smart contract using Remix
 - Final Work - Security in Smart Contracts paper
 
+---
+
 ### 🔐 Data Protection
 
 - ECTS Credits: 5
@@ -63,7 +67,7 @@ Description...
 This subject aims teach the necessary cryptographic techniques used to protect data during storage and transmision, in order to guarantee its
 confidentiality, integrity and authentication.
 
-> More details [here](dprot/dprot.md).
+> More details [here](../dprot/dprot.md).
 
 #### Theory
 
@@ -84,6 +88,8 @@ confidentiality, integrity and authentication.
 - Lab #5 - Certificates
 - Final work - Quantum Key Exchange
 
+---
+
 ### 🪱 Malware
 
 - ECTS Credits: 5
@@ -92,7 +98,7 @@ confidentiality, integrity and authentication.
 
 This subject aims to provide a comprehensive understanding of operating system principles, including process management and logical address space construction. It covers user vs. kernel modes, multithreading, and the philosophies of Windows and Linux systems. Additionally, it delves into malware, examining its categories, lifecycle (intrusion, infection, obfuscation, payload), deployment, and obfuscation techniques. The course also explores the development of malware targeting Windows systems, antivirus software components, and the ethical considerations of malware creation and distribution.
 
-> More details [here](malw/malw.md).
+> More details [here](../malw/malw.md).
 
 #### Theory
 
@@ -112,6 +118,8 @@ This subject aims to provide a comprehensive understanding of operating system p
 - Lab #5 - OWASP JuiceShop
 - Project - Multi function worm
 
+---
+
 ### 🖥️ Network Security
 
 - ECTS Credits: 5
@@ -120,7 +128,7 @@ This subject aims to provide a comprehensive understanding of operating system p
 
 This course focuses on equipping students with the skills to design, evaluate, and secure data communication networks. It adopts a hands-on approach, applying theoretical concepts in real network labs. The learning outcomes include the ability to design telecommunication networks for various scopes and bandwidths, use traffic engineering and network planning tools, and develop new network architectures and services. Additionally, students will learn to analyze and implement advanced security measures, including cryptographic protocols, firewalls, and authentication systems.
 
-> More details [here](ns/ns.md).
+> More details [here](../ns/ns.md).
 
 #### Theory
 
@@ -142,6 +150,8 @@ This course focuses on equipping students with the skills to design, evaluate, a
 - Lab #6 - SSH Port Forwarding
 - Lab #7 - SQL injection
 
+---
+
 ### 🚦 Traffic Monitoring & Analysis
 
 - ECTS Credits: 5
@@ -156,7 +166,7 @@ will also address the main technical challenges involved in network monitoring d
 network traffic. Finally, it will discuss about the privacy and ethical implications of measuring network traffic, as well as current
 regulations such as the EU General Data Protection Regulation (GDPR).
 
-> More details [here](tma/tma.md).
+> More details [here](../tma/tma.md).
 
 #### Theory
 
@@ -176,18 +186,18 @@ regulations such as the EU General Data Protection Regulation (GDPR).
 
 ## Semester 2
 
-### Cybersecurity Use-cases
+### 🗡️ Cybersecurity Use-cases
 
 ...
 
-### Hardware Security
+### 🔧 Hardware Security
 
 ...
 
-### Network Security - Authentication & Authorization
+### 🔑 Network Security - Authentication & Authorization
 
 ...
 
-### Software-Defined Security
+### 🛡️ Software-Defined Security
 
 ...
