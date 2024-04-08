@@ -1,6 +1,6 @@
 # 🎓 Master of Cybersecurity
 
-This Master of Cybersecurity is a 1 year master taught in the *Universitat Politècnica de Catalunya* (UPC) in Barcelona.
+This Master of Cybersecurity is a 1 year master taught in the _Universitat Politècnica de Catalunya_ (UPC) in Barcelona.
 
 It is full english and divided into 2 semesters:
 
@@ -21,5 +21,3 @@ It is full english and divided into 2 semesters:
   - Software-Defined Security
 
 > See each subject in detail [here](ms/ms_subjects.md)!
-
-> See my grades [here](ms/ms_grades.md)!
