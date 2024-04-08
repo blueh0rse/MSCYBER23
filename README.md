@@ -19,5 +19,6 @@ It is full english and divided into 2 semesters:
   - Hardware Security
   - Network Security - Authentication & Authorization
   - Software-Defined Security
+  - Master Thesis - Huntdown
 
 > See each subject in detail [here](ms/ms_subjects.md)!
