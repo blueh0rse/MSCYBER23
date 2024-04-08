@@ -62,7 +62,7 @@ Topics will be introduced, analyzed and discussed, focusing on the new approache
 
 #### Assignements
 
-- [Workshop #1 - Standardization](as_ws1_standardization.pdf)
+- [Workshop #1 - Electronic Signatures Standardization](as_ws1_standardization.pdf)
  
 This document presents general information about electronic signatures, lists the three standards used, details the most widely used of the three, and concludes.
 
