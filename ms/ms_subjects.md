@@ -22,8 +22,7 @@ This subject covers advanced aspects of the very active area of Internet applica
 
 #### Assignements
 
-- [Workshop #1 - Standardization](../as/as_ws1_standardization.pdf)
-- Workshop #1 - Electronic Signatures
+- [Workshop #1 - Electronic Signatures Standardization](../as/as_ws1_standardization.pdf)
 - Workshop #2 - ORM Injection
 - Workshop #3 - IoT Security in Schools
 - Project - Security by Design
@@ -199,5 +198,9 @@ regulations such as the EU General Data Protection Regulation (GDPR).
 ...
 
 ### 🛡️ Software-Defined Security
+
+...
+
+### 💥 Master Thesis - Huntdown
 
 ...
